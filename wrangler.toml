@@ -1,0 +1,6 @@
+name = "pdf-slide-viewer-proxy"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://user-x45.github.io,https://pdf-slide-viewer.pages.dev,https://slide-viewer.surge.sh,https://pdf-slide-viewer.vercel.app"
